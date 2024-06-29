@@ -1,0 +1,33 @@
+.contactContainer {
+    border: solid 1px #080505;
+    border-radius: 4px;
+    display: flex;
+    width: 400px;
+    padding: 16px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dataContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.stringContainer {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.buttonDelete {
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    border: 1px solid #111;
+    border-radius: 4px;
+}

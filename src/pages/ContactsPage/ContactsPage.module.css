@@ -1,0 +1,11 @@
+.container {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    color: #520d92;
+    margin-bottom: 24px;
+}
